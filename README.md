@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijeet Kale
+- 👋 Hi, I’m Abhijeet Kale
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ML & Data Science Projects
